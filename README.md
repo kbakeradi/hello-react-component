@@ -1,6 +1,6 @@
-# npm-react-typescript-template
+# Hello React Component
 
-A template for publishing a React + TypeScript package to npm
+An example React Component that shows a formatted hello headline, published to npm.
 
 ## How to use
 
