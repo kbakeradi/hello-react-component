@@ -7,7 +7,7 @@ type HelloProps = {
 
 const HelloComponent:React.FC<HelloProps> = ({ name }) => {
   // name is string!
-  return <h1 className='make-big'>Hello {name}</h1>
+  return <div className='make-big'>Hello {name}</div>
 };
 
 export default HelloComponent;
