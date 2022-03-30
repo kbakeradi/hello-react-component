@@ -31,4 +31,10 @@ Then publish your package by running
 
 - `npm publish`
 
+## References
+
+* https://styled-components.com/docs/basics#installation
+
+
+
 ### Happy Building ♡

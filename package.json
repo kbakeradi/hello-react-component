@@ -14,7 +14,9 @@
     "build": "rollup -c",
     "start": "rollup -c -w"
   },
-  "dependencies": {},
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  },
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -22,6 +24,7 @@
   "devDependencies": {
     "@types/react": "^16.3.13",
     "@types/react-dom": "^16.0.5",
+    "@types/styled-components": "^5.1.24",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
     "react": "^16.12.0",
